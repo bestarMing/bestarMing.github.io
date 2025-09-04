@@ -1,0 +1,8 @@
+http://example.com/2025/09/04/categoriesTest/
+http://example.com/2025/09/04/hello-world/
+http://example.com/2025/09/04/test/
+http://example.com/categories/index.html
+http://example.com/tags/index.html
+http://example.com/
+http://example.com/tags/test/
+http://example.com/categories/test/
